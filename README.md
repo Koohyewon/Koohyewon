@@ -5,5 +5,6 @@
 
 ---
 
-![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&show_icons=true&count_private=true&theme=radical)
+[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&show_icons=true&count_private=true&theme=radical&hide_rank=true)](https://github.com/Koohyewon/github-readme-stats)
+
 
