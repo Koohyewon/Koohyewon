@@ -5,5 +5,5 @@
 
 ---
 
-[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&theme=nord&hide_border=true&count_private=fasle)](https://github.com/jiholee0/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254)
+[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&theme=nord&hide_border=true&count_private=fasle)](https://github.com/jiholee0/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=khw6746)](https://solved.ac/dlwlgh1254)
 
