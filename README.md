@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#8CD1E2&height=200&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8CD1E2&height=250&section=header&text=Welcome!&fontColor=FFFFFF&desc=Koohyewon's%20github&fontSize=90)
 <!--
 **Koohyewon/Koohyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
