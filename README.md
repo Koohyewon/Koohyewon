@@ -5,4 +5,5 @@
 
 ---
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyewon0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/Koohyewon)
+[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&theme=nord&hide_border=true&count_private=fasle)](https://github.com/jiholee0/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254)
+
