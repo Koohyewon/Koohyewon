@@ -4,8 +4,6 @@
 <div align="left">
 
 ---
-
-[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Koohyewon/github-readme-stats)
+<div align="center">
+[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&count_private=true&theme=transparent&show_icons=true)](https://github.com/Koohyewon/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khw6746)](https://solved.ac/khw6746/)
-
-
