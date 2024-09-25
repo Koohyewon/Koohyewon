@@ -5,7 +5,7 @@
 
 ---
 
-[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&count_private=true&theme=radical&show_icons=true)](https://github.com/Koohyewon/github-readme-stats)
+[![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koohyewon&count_private=true&theme=synthwave&show_icons=true)](https://github.com/Koohyewon/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khw6746)](https://solved.ac/khw6746/)
 
 
