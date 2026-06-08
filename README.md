@@ -38,18 +38,13 @@
 ## 📌 Projects
 | 프로젝트 | 기간 | 설명 | 기술 |
 |---|---|---|---|
-| TALKI | 2025.10 ~ | AI 기반 실시간 발표 분석·피드백 웹서비스 (졸업작품) | React, TypeScript, Vite, WebSocket, MediaPipe |
-| SKU-SKU | 2025 | 멋쟁이사자처럼 동아리 사이버캠퍼스 (배포·운영 중) | React, TypeScript, Tailwind CSS |
-| Moving Cash | 2025.07 ~ 2025.08 | 러닝·산책 기반 지역 연계 모바일 서비스 | React Native, Expo, TypeScript |
-| Page | 2024 | 성결대 동아리연합회 물품 대여·강의실 조회 웹서비스 | React |
-| Eco Story | 2024 | 환경 데이터 시각화·친환경 실천 웹서비스 | React, Canvas API |
-| Drum Story | 2025 | 드럼 연습실 예약 관리 시스템 (프론트엔드 단독 개발) | React |
-<br>
+| [TALKI](https://github.com/Koohyewon/talki-frontend) | 2025.10 ~ | AI 기반 실시간 발표 분석·피드백 웹서비스 (졸업작품) | React, TypeScript, Vite, WebSocket, MediaPipe |
+| [SKU-SKU](https://github.com/Koohyewon/SKUSKU2025_Renewal_Front) | 2025 | 멋쟁이사자처럼 동아리 사이버캠퍼스 (배포·운영 중) | React, TypeScript, Tailwind CSS |
+| [Moving Cash](https://github.com/Koohyewon/MovingCash_Front) | 2025 | 러닝·산책 기반 지역 연계 모바일 서비스 | React Native, Expo, TypeScript |
+| [Page](https://github.com/Koohyewon/PageClubAssn2025_front) | 2025 | 성결대 동아리연합회 물품 대여·강의실 조회 웹서비스 | React, JavaScript, Tailwind CSS |
+| [Drum Story](https://github.com/Koohyewon/DrumStory_Front) | 2025 | 드럼 연습실 예약 관리 시스템 | React, JavaScript, Tailwind CSS |
+| [Eco Story](https://github.com/Koohyewon/ecostory_frontend) | 2024 | 환경 데이터 시각화·친환경 실천 웹서비스 | React, JavaScript, Canvas API |
 
-## 🌱 Activities
-- 멋쟁이사자처럼(LIKELION) 웹개발 연합 동아리 3년차 · 프론트엔드 운영진 (2025, 2026)
-- 성결대학교 알고리즘 스터디 활동 · 운영진 (2026)
-- 성결대학교 성결튜터링 튜터 (2025)
 <br>
 
 ## 🏆 Awards
