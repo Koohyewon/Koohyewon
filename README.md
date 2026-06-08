@@ -46,6 +46,7 @@
 | [Page](https://github.com/Koohyewon/PageClubAssn2025_front) | 2025 | 성결대 동아리연합회 물품 대여·강의실 조회 웹서비스 | React, JavaScript, Tailwind CSS |
 | [Drum Story](https://github.com/Koohyewon/DrumStory_Front) | 2025 | 드럼 연습실 예약 관리 시스템 | React, JavaScript, Tailwind CSS |
 | [Eco Story](https://github.com/Koohyewon/ecostory_frontend) | 2024 | 환경 데이터 시각화·친환경 실천 웹서비스 | React, JavaScript, Canvas API |
+| [CGV Clone](https://github.com/Koohyewon/cgv-clone-coding) | 2024 | 영화 예매 시스템 클론코딩 | React, JavaScript |
 
 <br>
 
