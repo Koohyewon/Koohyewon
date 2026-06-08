@@ -49,12 +49,5 @@
 
 <br>
 
-## 🏆 Awards
-- 2025 국내 학술대회 우수 논문상 (공저) — IAAI 국제인공지능학회
-- 2025 사용자 경험 디자인 소논문 경진대회 최우수상 — 성결대학교
-- 2025 VR/AR/GAME 경진대회 우수상 — 성결대학교 미디어소프트웨어학과
-- 2023 코딩 해커톤 경진대회 우수상 — 성결대학교
-<br>
-
 ## 📬 Contact
 <img src="https://img.shields.io/badge/khw6746@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <a href="https://hey-coding.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"></a>
