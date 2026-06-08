@@ -5,6 +5,7 @@
   
 ---
 
+
 ## 구혜원 Hyewon Koo
 사용자가 실제로 사용하는 서비스를 끝까지 완성하는 것을 좋아하는 프론트엔드 개발자입니다.<br>
 배운 것을 꾸준히 기록하고, 읽기 좋은 코드를 고민합니다.
@@ -26,6 +27,11 @@
 **Tools / Infra**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<br>
+
+**Collaboration**
+ 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <br>
 
 ## 📌 Projects
